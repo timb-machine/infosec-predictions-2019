@@ -23,6 +23,10 @@ Based on "infosec 2019 prediction":
 * https://businesscomputingworld.co.uk/t/infosecurity-europe-challenges-cisos-to-predict-top-trends-for-2019/771
 * https://www.secplicity.org/2018/11/14/introducing-watchguards-2019-security-predictions/
 
+Folks we know and love:
+
+* https://www.nccgroup.trust/uk/landing-pages/ncc-groups-predictions-2019/
+
 Side notes:
 
 * https://medium.com/@kshortridge/2019-cyber-security-predictions-6000e49b9803 - Markov powered predictions \o/
