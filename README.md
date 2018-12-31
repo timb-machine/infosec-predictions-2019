@@ -16,6 +16,9 @@ Based on "cyber security 2019 prediction":
 * https://thycotic.com/company/blog/event/top-5-cyber-security-predictions-for-2019/
 * https://logrhythm.com/blog/8-cybersecurity-predictions-for-2019/
 * https://www.forcepoint.com/2019-forcepoint-cybersecurity-predictions-report
+* https://www.fireeye.com/current-threats/annual-threat-report/cyber-security-predictions.html
+* https://knowtechie.com/cyber-security-in-2019-what-are-the-predictions/
+* https://techcrunch.com/2018/12/31/cybersecurity-predictions-2019/
 
 Based on "infosec 2019 prediction":
 
