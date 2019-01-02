@@ -37,6 +37,10 @@ Folks we know and love:
 
 * https://www.nccgroup.trust/uk/landing-pages/ncc-groups-predictions-2019/
 
+Random others from after the fact:
+
+* http://www.govtech.com/blogs/lohrmann-on-cybersecurity/the-top-19-security-predictions-for-2019.html
+
 Side notes:
 
 * https://medium.com/@kshortridge/2019-cyber-security-predictions-6000e49b9803 - Markov powered predictions \o/
