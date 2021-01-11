@@ -1,5 +1,11 @@
 # infosec-predictions-2019
 
+## Analysis
+
+* Infosec predictions 2019 analysis.xlsx - Were the predictions accurate?
+
+## Original data
+
 Based on "cyber security 2019 prediction":
 
 * https://www.symantec.com/blogs/feature-stories/cyber-security-predictions-2019-and-beyond
